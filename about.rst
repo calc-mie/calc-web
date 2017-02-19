@@ -1,17 +1,23 @@
 ---
 title: About
 ---
-Nullam imperdiet sodales orci vitae molestie. Nunc quam orci, pharetra a
-rhoncus vitae, eleifend id felis. Suspendisse potenti. Etiam vitae urna orci.
-Quisque pellentesque dignissim felis, egestas tempus urna luctus vitae. In hac
-habitasse platea dictumst. Morbi fringilla mattis odio, et mattis tellus
-accumsan vitae.
 
-1. Amamus Unicode 碁
-2. Interdum nex magna.
+電算演習室でプログラムを書いたり数学を語り合ったりしている人たちが、そのままサークルを立ち上げました。
+各メンバーがネタを持ち寄って勉強会をすることを主な活動としています。
 
-Vivamus eget mauris sit amet nulla laoreet lobortis. Nulla in diam elementum
-risus convallis commodo. Cras vehicula varius dui vitae facilisis. Proin
-elementum libero eget leo aliquet quis euismod orci vestibulum. Duis rhoncus
-lorem consequat tellus vestibulum aliquam. Quisque orci orci, malesuada porta
-blandit et, interdum nec magna.
+------
+計算？
+------
+サークル名を決める際に、コンピュータ研究会、数学研究会、プログラミング研究会等の名称が候補として上がり、どれにするか決めかねていました。
+結局、ぜんぶ「計算」だ、ということになり、この名称になりました。
+
+--------
+活動内容
+--------
+いろんな班があります。代表的なものは次のようなのがあります。
+
+* 勉強会
+* プログラミングコンテストへの出場
+* サーバ構築
+* ゲーム制作
+

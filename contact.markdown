@@ -2,5 +2,10 @@
 title: Contact
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
+## 会長
+中ちゃん
+[Twitter](https://twitter.com/naca_cyan13)
+
+## 主要な会員
+なかにゃん
+[Twitter](https://twitter.com/naca_nyan)
