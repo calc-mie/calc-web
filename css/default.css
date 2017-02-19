@@ -1,18 +1,18 @@
 body {
-    color: black;
+    color: #6b7770;
     font-size: 16px;
     margin: 0px auto 0px auto;
     width: 600px;
 }
 
 header {
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #e7eae8;
     margin-bottom: 30px;
     padding: 12px 0px 12px 0px;
 }
 
 div#logo a {
-    color: black;
+    color: #6b7770;
     float: left;
     font-size: 18px;
     font-weight: bold;
@@ -24,7 +24,7 @@ header nav {
 }
 
 header nav a {
-    color: black;
+    color: #6b7770;
     font-size: 18px;
     font-weight: bold;
     margin-left: 12px;
@@ -33,12 +33,16 @@ header nav a {
 }
 
 footer {
-    border-top: solid 2px black;
-    color: #555;
+    border-top: solid 2px #e7eae8;
+    color: #ddd;
     font-size: 12px;
     margin-top: 30px;
     padding: 12px 0px 12px 0px;
     text-align: right;
+}
+
+footer a {
+    color: #ccc;
 }
 
 h1 {
@@ -47,6 +51,18 @@ h1 {
 
 h2 {
     font-size: 20px;
+}
+
+#content a{
+    color: #59cc49;
+    text-decoration: none;
+}
+#content a:visited{
+    color: #59cc49;
+    text-decoration: none;
+}
+#content a:hover{
+    color: #f09;
 }
 
 div.info {
