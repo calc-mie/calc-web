@@ -5,12 +5,13 @@ read title
 echo -n "author?> "
 read author
 
+dir="posts"
 date=$(date +%Y-%m-%d)
 filename="${date}-${title}.md"
 
-echo "Creating ${filename}..."
+echo "Creating ${dir}/${filename}..."
 
-cat > ${filename} <<EOF
+cat > ${dir}/${filename} <<EOF
 ---
 title: "${title}"
 author: "${author}"
