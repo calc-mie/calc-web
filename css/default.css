@@ -2,7 +2,7 @@ body {
     color: #6b7770;
     font-size: 16px;
     margin: 0px auto 0px auto;
-    width: 600px;
+    max-width: 600px;
 }
 
 header {
