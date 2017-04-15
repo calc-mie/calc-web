@@ -5,7 +5,7 @@ read title
 echo -n "author?> "
 read author
 
-dir="posts"
+dir="posts-available"
 date=$(date +%Y-%m-%d)
 filename="${date}-${title}.md"
 
