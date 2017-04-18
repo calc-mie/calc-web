@@ -10,7 +10,7 @@ date=$(date +%Y-%m-%d)
 filename="${date}-${title}.md"
 
 echo "Creating ${dir}/${filename}..."
-
+umask 002
 cat > ${dir}/${filename} <<EOF
 ---
 title: "${title}"
