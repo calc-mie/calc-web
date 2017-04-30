@@ -19,3 +19,4 @@ executable calc-web
   ghc-options:         -threaded
   build-depends:       base
                      , hakyll
+                     , pandoc
