@@ -133,6 +133,11 @@ code {
     border-radius: 3px;
     color: #C25;
     padding: 1px 3px;
+    line-height: 1.5em;
+}
+
+pre code {
+    line-height: 1.0em;
 }
 
 span.math.display {
