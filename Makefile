@@ -1,17 +1,11 @@
-DEPLOY_DIR=/srv/calc-web
-
-.PHONY: deploy build permission clean clean-all
-deploy: build
-	cp -vur _site/* $(DEPLOY_DIR)
-
+INSTALL_PATH=/usr/local/bin
+.PHONY: build clean install
 build:
-	calc-web build
-
-permission:
-	find $(DEPLOY_DIR) -type d | xargs chmod g+w
+	stack build
 
 clean:
-	calc-web clean
+	stack clean
 
-clean-all: clean
-	rm -rv $(DEPLOY_DIR)/*
+install:
+	stack build
+	sudo install $(shell stack exec which calc-web) $(INSTALL_PATH)
